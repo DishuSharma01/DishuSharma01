@@ -1,14 +1,12 @@
 - 👋 Hi, I’m @DishuSharma01
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Data Visualization
+- 🌱 I’m currently learning Data Analyst
+- 💞️ I’m looking to collaborate on Data Analyst
+- 📫 How to reach me deekshakumar133@gmail.com
 
-<!---
-DishuSharma01/DishuSharma01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- <br>🤝 I’m looking for an internship<br>🌱Currently I am a learner of the computer science field <br>💬 Ask me about C++, python, Power BI, data visualization.
 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+
+
